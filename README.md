@@ -27,6 +27,9 @@ Thanks for checking my profile.</p>
 Gmail
 </td>
 <td>
+    Outlook Mail
+</td>
+<td>
 Skype
 </td> 
 </tr>
@@ -35,7 +38,10 @@ Skype
     rabbit39407@gmail.com
 </td>
 <td>
-    live:.cid.c1a4be3c8050e568
+    polend77@outlook.com
+</td>
+<td>
+    live:.cid.b56265e727b6029c
 </td>
  </tr>
 </table>
