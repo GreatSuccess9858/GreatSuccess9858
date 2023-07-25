@@ -197,12 +197,12 @@
 <a href="https://gist.github.com/PrinceGoblinTech"><img src="https://profile-counter.glitch.me/{Aleksey-Voko}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a>
 </p>
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
+
 
 
 # Reach out to me #
 <a href="mailto:ding.w98106@gmail.com"><img src="./assets/gmail.png" alt="Gmail" height="50" title="Send mail"></a>
-<a href="https://t.me/BlackNinja9"><img src="./assets/telegram.webp" alt="Telegram" height="50" title="Send message"></a>
+<a href="https://t.me/python9858"><img src="./assets/telegram.webp" alt="Telegram" height="50" title="Send message"></a>
 <a href="https://ru.stackoverflow.com/users/371584/princegoblintech"><img src="./assets/stack_overflow.svg" alt="ru.stackoverflow" height="50" title="en.stackoverflow profile"></a>
 <a href="https://stackoverflow.com/users/13531449/princegoblintech"><img src="./assets/stack_overflow.svg" alt="stackoverflow" height="50" title="stackoverflow profile"></a>
 <a href="https://askubuntu.com/users/1561126/princegoblintech"><img src="./assets/ubuntu.svg" alt="askubuntu" height="50" title="askubuntu profile"></a>
