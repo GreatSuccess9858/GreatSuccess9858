@@ -13,7 +13,7 @@
 # Main Skills #
 
 <a href="https://www.php.net/manual/en/index.php"><img src="./assets/php.png" alt="php" height="100" title="PHP documentation"></a>
-<a href="https://laravel.com/docs/10.x"><img src="https://skillicons.dev/icons?i=laravel" width="100"  alt="Laravel" title="Laravel documentation"> /></a>
+<a href="https://laravel.com/docs/10.x"><img src="https://skillicons.dev/icons?i=laravel" width="100"  alt="Laravel" title="Laravel documentation"></a>
 <a href="https://docs.python.org/3/library/index.html"><img src="./assets/python-original.svg" alt="python" height="100" title="Python documentation"></a>
 <a href="https://developer.android.com/reference"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" height="100" title="React"></a>
 <a href="https://https://ios.cfw.guide/"><img src="./assets/ios.svg" alt="ios" height="100" title="iOS reference"></a>
