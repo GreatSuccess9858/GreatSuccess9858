@@ -1,5 +1,5 @@
 <!--suppress HtmlDeprecatedAttribute -->
-# Who am I? #
+# Who am I? # <a href="mailto:ding.w98106@gmail.com"><img src="./assets/gmail.png" alt="Gmail" width="30" title="Send mail"></a>
 <div>
 <br/>
 -  Web/App developer with 9+ years of experience designing and building scalable, high-performance web and mobile applications<br/>
@@ -9,10 +9,8 @@
 -  Deep knowledge about deep learning, recommendation system and reinforcement system.</br>
 
 </div>
-# Contact Info #
-
-<a href="mailto:ding.w98106@gmail.com"><img src="./assets/gmail.png" alt="Gmail" width="30" title="Send mail"></a>
-<a href="https://t.me/python9858"><img src="./assets/telegram.webp" alt="Telegram" width="30" title="Send message"></a>
+ 
+ 
 
 # Main Skills #
 
