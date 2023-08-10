@@ -1,5 +1,5 @@
 <!--suppress HtmlDeprecatedAttribute -->
-# Who am I? # <a href="mailto:ding.w98106@gmail.com"><img src="./assets/gmail.png" alt="Gmail" width="30" title="Send mail"></a>
+# Who am I?  <a href="mailto:ding.w98106@gmail.com"><img src="./assets/gmail.png" alt="Gmail" width="30" title="Send mail"></a>
 <div>
 <br/>
 -  Web/App developer with 9+ years of experience designing and building scalable, high-performance web and mobile applications<br/>
