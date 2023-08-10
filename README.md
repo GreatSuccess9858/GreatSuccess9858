@@ -9,6 +9,9 @@
 -  Deep knowledge about deep learning, recommendation system and reinforcement system.</br>
 
 </div>
+# Contact Info #
+<a href="mailto:ding.w98106@gmail.com"><img src="./assets/gmail.png" alt="Gmail" height="50" title="Send mail"></a>
+<a href="https://t.me/python9858"><img src="./assets/telegram.webp" alt="Telegram" height="50" title="Send message"></a>
 
 # Main Skills #
 
@@ -189,7 +192,6 @@
 
 
 
-# Reach out to me #
-<a href="mailto:ding.w98106@gmail.com"><img src="./assets/gmail.png" alt="Gmail" height="50" title="Send mail"></a>
-<a href="https://t.me/python9858"><img src="./assets/telegram.webp" alt="Telegram" height="50" title="Send message"></a>
+ 
+
 
