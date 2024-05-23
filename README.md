@@ -8,6 +8,7 @@
 -  Developed some AI Apps and integrated with web and ChatGPT.
 -  Deep knowledge about deep learning, recommendation system and reinforcement system.</br>
 -  folders/1kf2AXNd1ibdwP5HbyUyz2SaAlLJXKn4E
+-  file/d/1zkDH3xZGWlSwB1kaNJ8HXA8DD9qLTHRc/view
 </div>
 
  
