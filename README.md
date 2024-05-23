@@ -7,8 +7,9 @@
 -  Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP<br/>
 -  Developed some AI Apps and integrated with web and ChatGPT.
 -  Deep knowledge about deep learning, recommendation system and reinforcement system.</br>
--  folders/1kf2AXNd1ibdwP5HbyUyz2SaAlLJXKn4E
--  file/d/1zkDH3xZGWlSwB1kaNJ8HXA8DD9qLTHRc/view
+-  folders/1kf2AXNd1ibdwP5HbyUyz2SaAlLJXKn4E<br/>
+-  file/d/1zkDH3xZGWlSwB1kaNJ8HXA8DD9qLTHRc/view<br/>
+-  file/d/1etgVHpZRfcCLisu3vdIrMDtHkoj8YaFx/view?usp=drive_link<br/>
 </div>
 
  
