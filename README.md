@@ -10,8 +10,7 @@
 -  folders/1kf2AXNd1ibdwP5HbyUyz2SaAlLJXKn4E<br/>
 -  file/d/1zkDH3xZGWlSwB1kaNJ8HXA8DD9qLTHRc/view<br/>
 -  file/d/1etgVHpZRfcCLisu3vdIrMDtHkoj8YaFx/view?usp=drive_link<br/>
--  TRC20 TUH3qAevsp4uvpEjuAsc2v7acYQy3ZtbcB<br/>
--  BEP20 0xaa9e48d0128b6ff56dccc580a530f5ce1bc8a5e7<br/>
+
 -  Ljubomir993@<br/>
    Ljubo0071*<br/>
    liverpool
