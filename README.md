@@ -7,16 +7,8 @@
 -  Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP<br/>
 -  Developed some AI Apps and integrated with web and ChatGPT.
 -  Deep knowledge about deep learning, recommendation system and reinforcement system.</br>
--  folders/1kf2AXNd1ibdwP5HbyUyz2SaAlLJXKn4E<br/>
--  file/d/1zkDH3xZGWlSwB1kaNJ8HXA8DD9qLTHRc/view<br/>
--  file/d/1etgVHpZRfcCLisu3vdIrMDtHkoj8YaFx/view?usp=drive_link<br/>
--  TRC20 TUH3qAevsp4uvpEjuAsc2v7acYQy3ZtbcB<br/>
--  BEP20 0xaa9e48d0128b6ff56dccc580a530f5ce1bc8a5e7<br/>
-
--  Ljubomir993@<br/>
-   Ljubo0071*<br/>
-   liverpool<br/>
-   https://www.swisstransfer.com/d/6f76b580-5559-4947-ae4b-16963fa120d4
+- document(1Cpu0xxWc8dQpgv751jeXOmM9hUZzZMfVKn7bEPw98jY/edit?tab=t.0)
+- file(1WMBa4q5xkwDi0bE-2MLVJDC9izUGSSLO/view)(11olJ-iwHIAV_Vl_g-KqZiaQ8-4B30m-P/view)(1hAiVUb6Qx6E9WVabQWtanU3LEmY-jLj_/view)
 
 </div>
 
