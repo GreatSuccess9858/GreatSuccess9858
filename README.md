@@ -1,6 +1,13 @@
 <!--suppress HtmlDeprecatedAttribute -->
-# Who am I?  <a href="mailto:nalpa199858@gmail.com"><img src="./assets/gmail.png" alt="Gmail" width="30" title="Send mail"></a>
+# Blockchain & Crypto Trading Bot Developer | DeFi Automation & Algorithmic Trading Expert <a href="mailto:nalpa199858@gmail.com">
 <div>
+ I am a Blockchain Developer and Algorithmic Trading Bot Engineer with extensive experience building automated trading systems, DeFi tools, and blockchain-based applications. I specialize in designing high-performance trading bots that execute strategies such as arbitrage, market making, sniping, and algorithmic trading across centralized and decentralized exchanges.
+
+My expertise includes developing secure smart contracts, blockchain integrations, and fully automated trading infrastructures that help traders maximize efficiency, reduce manual work, and capture profitable opportunities in fast-moving markets.
+
+I have experience working with major blockchain ecosystems including Ethereum, BNB Chain, Solana, and Polygon, and I build bots capable of real-time market analysis, automated execution, and risk management.
+
+Whether clients need a custom crypto trading bot, DeFi arbitrage system, sniper bot for token launches, or blockchain automation tools, I deliver scalable, secure, and optimized solutions tailored to their trading strategies.
 <br/>
 -  Web/App developer with 9+ years of experience designing and building scalable, high-performance web and mobile applications<br/>
 -  Proficient in front-end technologies like React, Angular, and Vue.js, as well as back-end technologies like Node.js, Python, and PHP<br/>
