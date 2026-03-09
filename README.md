@@ -1,5 +1,5 @@
 <!--suppress HtmlDeprecatedAttribute -->
-# Blockchain & Crypto Trading Bot Developer | DeFi Automation & Algorithmic Trading Expert <a href="mailto:nalpa199858@gmail.com">
+# Blockchain & Crypto Trading Bot Developer <a href="mailto:nalpa199858@gmail.com">
 <div>
  I am a Blockchain Developer and Algorithmic Trading Bot Engineer with extensive experience building automated trading systems, DeFi tools, and blockchain-based applications. I specialize in designing high-performance trading bots that execute strategies such as arbitrage, market making, sniping, and algorithmic trading across centralized and decentralized exchanges.
 
@@ -9,13 +9,15 @@ I have experience working with major blockchain ecosystems including Ethereum, B
 
 Whether clients need a custom crypto trading bot, DeFi arbitrage system, sniper bot for token launches, or blockchain automation tools, I deliver scalable, secure, and optimized solutions tailored to their trading strategies.
 <br/>
--  Web/App developer with 9+ years of experience designing and building scalable, high-performance web and mobile applications<br/>
--  Proficient in front-end technologies like React, Angular, and Vue.js, as well as back-end technologies like Node.js, Python, and PHP<br/>
--  Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP<br/>
--  Developed some AI Apps and integrated with web and ChatGPT.
--  Deep knowledge about deep learning, recommendation system and reinforcement system.</br>
-- document(1Cpu0xxWc8dQpgv751jeXOmM9hUZzZMfVKn7bEPw98jY/edit?tab=t.0)
-- file(1WMBa4q5xkwDi0bE-2MLVJDC9izUGSSLO/view)(11olJ-iwHIAV_Vl_g-KqZiaQ8-4B30m-P/view)(1hAiVUb6Qx6E9WVabQWtanU3LEmY-jLj_/view)
+-  Crypto Trading Bot Development<br/>
+-  Algorithmic Trading Strategies <br/>
+-  DeFi & MEV Bot Development <br/>
+-  Smart Contract Development (Solidity, Rust) <br/>
+-  Blockchain Integration (Web3, RPC, APIs) <br/>
+-  Arbitrage & High-Frequency Trading Bots <br/>
+-  Sniper Bots for New Token Launches <br/>
+-  Automated Market Making Bots <br/>
+-  Risk Management & Trading Strategy Automation <br/>
 
 </div>
 
@@ -23,25 +25,21 @@ Whether clients need a custom crypto trading bot, DeFi arbitrage system, sniper 
  
 
 # Main Skills #
-
+<a href="https://docs.python.org/3/library/index.html"><img src="./assets/python-original.svg" alt="python" height="100" title="Python documentation"></a>
+<a href="https://nodejs.org/en/docs/guides"><img src="./assets/node.svg" alt="node" height="100" title="Node documentation"></a>
 <a href="https://www.php.net/manual/en/index.php"><img src="./assets/php.png" alt="php" height="100" title="PHP documentation"></a>
 <a href="https://laravel.com/docs/10.x"><img src="https://skillicons.dev/icons?i=laravel" width="100"  alt="Laravel" title="Laravel documentation"></a>
-<a href="https://docs.python.org/3/library/index.html"><img src="./assets/python-original.svg" alt="python" height="100" title="Python documentation"></a>
 <a href="https://developer.android.com/reference"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" height="100" title="React"></a>
 <a href="https://https://ios.cfw.guide/"><img src="./assets/ios.svg" alt="ios" height="100" title="iOS reference"></a>
 <a href="https://reactnative.dev/docs/getting-started"><img src="./assets/react-native.svg" alt="react-native" height="100" title="React-Native documentation"></a>
 <a href="https://vuejs.org/guide/introduction.html"><img src="./assets/vue.svg" alt="vue" height="100" title="Vue documentation"></a>
 <a href="https://angular.io/start"><img src="./assets/angular.svg" alt="angular" height="100" title="Angular documentation"></a>
-<a href="https://nodejs.org/en/docs/guides"><img src="./assets/node.svg" alt="node" height="100" title="Node documentation"></a>
+
 
 # 💻 My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
-    </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
@@ -55,6 +53,10 @@ Whether clients need a custom crypto trading bot, DeFi arbitrage system, sniper 
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
       <br>C++
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
